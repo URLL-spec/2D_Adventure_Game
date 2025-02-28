@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 8048ef3b0610d0e428fea43bed324cb9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2931201625464949517
+    second: WOLF IDLE 120_0
+  - first:
+      213: -2512075592572157844
+    second: WOLF IDLE 120_1
+  - first:
+      213: -7129409268978238794
+    second: WOLF IDLE 120_2
+  - first:
+      213: 1548143836161477810
+    second: WOLF IDLE 120_3
+  - first:
+      213: -1650688128070705187
+    second: WOLF IDLE 120_4
+  - first:
+      213: -3327755251997979343
+    second: WOLF IDLE 120_5
+  - first:
+      213: -7137159463304906682
+    second: WOLF IDLE 120_6
+  - first:
+      213: -6602858537475606047
+    second: WOLF IDLE 120_7
+  - first:
+      213: -5215599397462252754
+    second: WOLF IDLE 120_8
+  - first:
+      213: 5786455904246718499
+    second: WOLF IDLE 120_9
+  - first:
+      213: -9101977158444599551
+    second: WOLF IDLE 120_10
+  - first:
+      213: 7071630848146941378
+    second: WOLF IDLE 120_11
+  - first:
+      213: 4107992796940184851
+    second: WOLF IDLE 120_12
+  - first:
+      213: -6660292984555082233
+    second: WOLF IDLE 120_13
+  - first:
+      213: -5028079465050626000
+    second: WOLF IDLE 120_14
+  - first:
+      213: 3408156479458552306
+    second: WOLF IDLE 120_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WOLF IDLE 120_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 147
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f43d1dd6a74257d0800000000000000
+      internalID: -2931201625464949517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOLF IDLE 120_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 147
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60cecfde80532dd0800000000000000
+      internalID: -2512075592572157844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOLF IDLE 120_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1560
+        width: 147
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6babc280b004f0d90800000000000000
+      internalID: -7129409268978238794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOLF IDLE 120_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 147
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc8d97dd9c1c7510800000000000000
+      internalID: 1548143836161477810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOLF IDLE 120_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1320
+        width: 147
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf146ba4e39719e0800000000000000
+      internalID: -1650688128070705187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOLF IDLE 120_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 147
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d4831ca3071d1d0800000000000000
+      internalID: -3327755251997979343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOLF IDLE 120_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 147
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648b46c4847b3fc90800000000000000
+      internalID: -7137159463304906682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOLF IDLE 120_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 147
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e97c93c42fed54a0800000000000000
+      internalID: -6602858537475606047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOLF IDLE 120_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 147
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23658f3bf77e97b0800000000000000
+      internalID: -5215599397462252754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOLF IDLE 120_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 147
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3206619acfe9d4050800000000000000
+      internalID: 5786455904246718499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOLF IDLE 120_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 147
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107b03daff74fa180800000000000000
+      internalID: -9101977158444599551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOLF IDLE 120_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 147
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c52e7e0aca732260800000000000000
+      internalID: 7071630848146941378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOLF IDLE 120_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 147
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dab790fa5820930800000000000000
+      internalID: 4107992796940184851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOLF IDLE 120_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 147
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e619b71d2e193a0800000000000000
+      internalID: -6660292984555082233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOLF IDLE 120_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 147
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038a83fcd5ca83ab0800000000000000
+      internalID: -5028079465050626000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOLF IDLE 120_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 147
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9a219c2443c4f20800000000000000
+      internalID: 3408156479458552306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
