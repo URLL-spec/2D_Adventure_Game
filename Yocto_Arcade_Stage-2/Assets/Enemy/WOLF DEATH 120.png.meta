@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: ed927619e7e88e14bb4cb6208bd0c759
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9094543944209809692
+    second: WOLF DEATH 120_0
+  - first:
+      213: 675198871896331196
+    second: WOLF DEATH 120_1
+  - first:
+      213: -2812455891220659649
+    second: WOLF DEATH 120_2
+  - first:
+      213: -6471899455742412856
+    second: WOLF DEATH 120_3
+  - first:
+      213: 7778930436321888166
+    second: WOLF DEATH 120_4
+  - first:
+      213: 6049317056350891317
+    second: WOLF DEATH 120_5
+  - first:
+      213: -2097599645768820017
+    second: WOLF DEATH 120_6
+  - first:
+      213: 7494612503529455464
+    second: WOLF DEATH 120_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WOLF DEATH 120_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 147
+        height: 120
+      alignment: 9
+      pivot: {x: 0.391, y: 0.3667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c114ec4488f463e70800000000000000
+      internalID: 9094543944209809692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOLF DEATH 120_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 147
+        height: 120
+      alignment: 9
+      pivot: {x: 0.391, y: 0.3667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb31020fbc9ce5900800000000000000
+      internalID: 675198871896331196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOLF DEATH 120_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 147
+        height: 120
+      alignment: 9
+      pivot: {x: 0.391, y: 0.3667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f328659944628f8d0800000000000000
+      internalID: -2812455891220659649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOLF DEATH 120_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 147
+        height: 120
+      alignment: 9
+      pivot: {x: 0.391, y: 0.3667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7fd6e0cb13f26a0800000000000000
+      internalID: -6471899455742412856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOLF DEATH 120_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 147
+        height: 119
+      alignment: 9
+      pivot: {x: 0.391, y: 0.3667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7c07d640054fb60800000000000000
+      internalID: 7778930436321888166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOLF DEATH 120_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 147
+        height: 120
+      alignment: 9
+      pivot: {x: 0.391, y: 0.3667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53da185efcd73f350800000000000000
+      internalID: 6049317056350891317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOLF DEATH 120_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 147
+        height: 120
+      alignment: 9
+      pivot: {x: 0.391, y: 0.3667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcad6f85c34d3e2e0800000000000000
+      internalID: -2097599645768820017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOLF DEATH 120_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 147
+        height: 120
+      alignment: 9
+      pivot: {x: 0.391, y: 0.3667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ff2122d56320860800000000000000
+      internalID: 7494612503529455464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
